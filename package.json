@@ -1,0 +1,13 @@
+{
+  "name": "tubes",
+  "version": "0",
+  "description": "d",
+  "main": "index.js",
+  "repository": "https://github.com/Sacochee/piano-Tubes.git",
+  "author": "n",
+  "license": "n",
+  "private": false,
+  "scripts": {
+    "start": "parcel public/index.html"
+  }
+}
