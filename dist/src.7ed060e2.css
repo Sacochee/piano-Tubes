@@ -1,0 +1,53 @@
+.main{
+    background-color: aqua;
+    display: flex;
+    padding: 10px;
+}
+.partp{
+    display: flex;
+    
+    
+}
+.white{
+    padding: 20px;
+    padding-top: 60px;
+    background-color: white;
+}
+.blackOne, .blackTow, .blackTree, .blackFau, .blackt{
+    
+    padding: 3px;
+    padding-bottom: 50px;
+    background-color: black;
+    margin-bottom: 30px;
+}
+.blackOne{
+    position: absolute;
+    top: auto;
+    left: 55px;
+}
+.blackTow{
+    position: absolute;
+    top: auto;
+    left: 95px;
+}
+.blackTree{
+    position: absolute;
+    top: auto;
+    left: 175px;
+}
+.blackFau{
+    position: absolute;
+    top: auto;
+    left: 215px;
+}
+.blackt{
+    position: absolute;
+    top: auto;
+    left: 255px;
+}
+.keys{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+/*# sourceMappingURL=/src.7ed060e2.css.map */
